@@ -3,3 +3,5 @@ Repositório para a Atividade 03 da disciplina de Manutenção de Software e Dev
 
 Aluna: Ana Beatriz Heinzelmann
 Matrícula: 2324291003
+
+e Seu amigo e colaborador super gente boa, Davi :)
